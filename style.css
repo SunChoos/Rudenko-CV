@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(239, 208, 166);
+    font-size: 14px;
+}
+h1 {
+    color: rgb(3, 18, 18);
+}
+.avatar{
+    width: 200px;
+    border-radius: 25px;
+    box-shadow: 4px 4px 20px;
+}
+.Social {
+    color: rgb(3, 18, 18);
+    margin-left: 10%;
+     margin-inline-start: 10%;
+}
+.Data {
+    margin-left: 43px ;
+    color: rgb(0, 7, 7);
+}
